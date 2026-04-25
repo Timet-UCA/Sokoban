@@ -29,8 +29,7 @@ Gameplay:
 
 关卡编辑器：Lv_LevelEditor
 
-打开该关卡，并在Content/Sokoban/Blueprint/UtilityWidget下找到EUW_LevelEditor
-右键Run Editor Utility Widget
+打开该关卡，并在Content/Sokoban/Blueprint/UtilityWidget下找到EUW_LevelEditor，右键Run Editor Utility Widget
 使用左侧工具，在右侧关卡2D映射PANEL中编辑当前关卡
 点击运行开始测试
 
